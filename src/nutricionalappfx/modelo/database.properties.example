@@ -1,0 +1,5 @@
+# Informaci\u00f3n de acceso a la BD
+db.url=jdbc:mysql://localhost:3306/nutriapp?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+db.driver=com.mysql.cj.jdbc.Driver
+db.user=root
+db.password=TU_PASSWORD

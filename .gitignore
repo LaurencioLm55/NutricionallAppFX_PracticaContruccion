@@ -1,0 +1,5 @@
+# Salida de compilacion de NetBeans
+/build/
+/dist/
+/nbproject/private/
+/src/nutricionalappfx/modelo/database.properties
